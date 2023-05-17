@@ -1,0 +1,54 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "students": [
+    {
+      "name": "name1.1",
+      "age": "13",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "name2",
+      "age": "16"
+    },
+    {
+      "name": "name3",
+      "age": "25",
+      "id": 3
+    },
+    {
+      "name": "name5",
+      "age": "20",
+      "id": 4
+    },
+    {
+      "name": "Name7",
+      "age": "40",
+      "id": 5
+    }
+  ],
+  "products":[
+    {"id":1,"title":"Food Dog","description":"Food Dog","price":20000,"img":"https://target.scene7.com/is/image/Target/GUEST_9ef7615c-9a0f-4cd3-8e80-ce1eb13f7bad?wid=488&hei=488&fmt=pjpeg"},
+    {"id":2,"title":"Food Cat","description":"Food Cat","price":30000,"img":"https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/11473620_XL1_20220310.jpg"},
+    {"id":3,"title":"Food Rat","description":"Food Rat","price":15000,"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6hiNsB_Yte_Ofx8-U1xjd8KpWYKztaQ3wRg&usqp=CAU"},
+    {"id":4,"title":"Food Chicken","description":"Food Chicken","price":5000,"img":"https://blog.blains.com/blog/wp-content/uploads/2016/01/Selecting-the-Right-Chicken-Feed.jpg"},
+    {"id":5,"title":"Food Duck","description":"Food Duck","price":10000,"img":"https://www.mannapro.com/sites/default/files/2020-08/1030060_MP%20Duck%20%26%20Goose%20Layer%20Pellet_095668300609_FRONT.jpg"}
+
+  ]
+}
